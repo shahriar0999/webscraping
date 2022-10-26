@@ -1,0 +1,251 @@
+movie_name,director,actor,rating
+The Shawshank Redemption,Frank Darabont ," Tim Robbins, Morgan Freeman",9.2
+The Godfather,Francis Ford Coppola ," Marlon Brando, Al Pacino",9.2
+The Dark Knight,Christopher Nolan ," Christian Bale, Heath Ledger",9.0
+The Godfather Part II,Francis Ford Coppola ," Al Pacino, Robert De Niro",9.0
+12 Angry Men,Sidney Lumet ," Henry Fonda, Lee J. Cobb",9.0
+Schindler's List,Steven Spielberg ," Liam Neeson, Ralph Fiennes",8.9
+The Lord of the Rings: The Return of the King,Peter Jackson ," Elijah Wood, Viggo Mortensen",8.9
+Pulp Fiction,Quentin Tarantino ," John Travolta, Uma Thurman",8.8
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson ," Elijah Wood, Ian McKellen",8.8
+"The Good, the Bad and the Ugly",Sergio Leone ," Clint Eastwood, Eli Wallach",8.8
+Forrest Gump,Robert Zemeckis ," Tom Hanks, Robin Wright",8.8
+Fight Club,David Fincher ," Brad Pitt, Edward Norton",8.7
+Inception,Christopher Nolan ," Leonardo DiCaprio, Joseph Gordon-Levitt",8.7
+The Lord of the Rings: The Two Towers,Peter Jackson ," Elijah Wood, Ian McKellen",8.7
+Star Wars: Episode V - The Empire Strikes Back,Irvin Kershner ," Mark Hamill, Harrison Ford",8.7
+The Matrix,Lana Wachowski ," Keanu Reeves, Laurence Fishburne",8.7
+Goodfellas,Martin Scorsese ," Robert De Niro, Ray Liotta",8.7
+One Flew Over the Cuckoo's Nest,Milos Forman ," Jack Nicholson, Louise Fletcher",8.6
+Se7en,David Fincher ," Morgan Freeman, Brad Pitt",8.6
+Seven Samurai,Akira Kurosawa ," Toshirô Mifune, Takashi Shimura",8.6
+It's a Wonderful Life,Frank Capra ," James Stewart, Donna Reed",8.6
+The Silence of the Lambs,Jonathan Demme ," Jodie Foster, Anthony Hopkins",8.6
+City of God,Fernando Meirelles ," Alexandre Rodrigues, Leandro Firmino",8.6
+Saving Private Ryan,Steven Spielberg ," Tom Hanks, Matt Damon",8.6
+Life Is Beautiful,Roberto Benigni ," Roberto Benigni, Nicoletta Braschi",8.6
+Interstellar,Christopher Nolan ," Matthew McConaughey, Anne Hathaway",8.6
+The Green Mile,Frank Darabont ," Tom Hanks, Michael Clarke Duncan",8.6
+Star Wars,George Lucas ," Mark Hamill, Harrison Ford",8.6
+Terminator 2: Judgment Day,James Cameron ," Arnold Schwarzenegger, Linda Hamilton",8.5
+Back to the Future,Robert Zemeckis ," Michael J. Fox, Christopher Lloyd",8.5
+Spirited Away,Hayao Miyazaki ," Daveigh Chase, Suzanne Pleshette",8.5
+Psycho,Alfred Hitchcock ," Anthony Perkins, Janet Leigh",8.5
+The Pianist,Roman Polanski ," Adrien Brody, Thomas Kretschmann",8.5
+Parasite,Bong Joon Ho ," Song Kang-ho, Lee Sun-kyun",8.5
+Léon: The Professional,Luc Besson ," Jean Reno, Gary Oldman",8.5
+The Lion King,Roger Allers ," Matthew Broderick, Jeremy Irons",8.5
+Gladiator,Ridley Scott ," Russell Crowe, Joaquin Phoenix",8.5
+American History X,Tony Kaye ," Edward Norton, Edward Furlong",8.5
+The Departed,Martin Scorsese ," Leonardo DiCaprio, Matt Damon",8.5
+The Usual Suspects,Bryan Singer ," Kevin Spacey, Gabriel Byrne",8.5
+The Prestige,Christopher Nolan ," Christian Bale, Hugh Jackman",8.5
+Whiplash,Damien Chazelle ," Miles Teller, J.K. Simmons",8.5
+Casablanca,Michael Curtiz ," Humphrey Bogart, Ingrid Bergman",8.5
+The Intouchables,Olivier Nakache ," François Cluzet, Omar Sy",8.5
+Harakiri,Masaki Kobayashi ," Tatsuya Nakadai, Akira Ishihama",8.5
+Grave of the Fireflies,Isao Takahata ," Tsutomu Tatsumi, Ayano Shiraishi",8.5
+Modern Times,Charles Chaplin ," Charles Chaplin, Paulette Goddard",8.4
+Once Upon a Time in the West,Sergio Leone ," Henry Fonda, Charles Bronson",8.4
+Rear Window,Alfred Hitchcock ," James Stewart, Grace Kelly",8.4
+Alien,Ridley Scott ," Sigourney Weaver, Tom Skerritt",8.4
+City Lights,Charles Chaplin ," Charles Chaplin, Virginia Cherrill",8.4
+Cinema Paradiso,Giuseppe Tornatore ," Philippe Noiret, Enzo Cannavale",8.4
+Apocalypse Now,Francis Ford Coppola ," Martin Sheen, Marlon Brando",8.4
+Memento,Christopher Nolan ," Guy Pearce, Carrie-Anne Moss",8.4
+Raiders of the Lost Ark,Steven Spielberg ," Harrison Ford, Karen Allen",8.4
+Django Unchained,Quentin Tarantino ," Jamie Foxx, Christoph Waltz",8.4
+WALL·E,Andrew Stanton ," Ben Burtt, Elissa Knight",8.4
+The Lives of Others,Florian Henckel von Donnersmarck ," Ulrich Mühe, Martina Gedeck",8.4
+Sunset Blvd.,Billy Wilder ," William Holden, Gloria Swanson",8.4
+Paths of Glory,Stanley Kubrick ," Kirk Douglas, Ralph Meeker",8.4
+The Great Dictator,Charles Chaplin ," Charles Chaplin, Paulette Goddard",8.4
+The Shining,Stanley Kubrick ," Jack Nicholson, Shelley Duvall",8.4
+Witness for the Prosecution,Billy Wilder ," Tyrone Power, Marlene Dietrich",8.4
+Avengers: Infinity War,Anthony Russo ," Robert Downey Jr., Chris Hemsworth",8.4
+Aliens,James Cameron ," Sigourney Weaver, Michael Biehn",8.3
+American Beauty,Sam Mendes ," Kevin Spacey, Annette Bening",8.3
+Spider-Man: Into the Spider-Verse,Bob Persichetti ," Shameik Moore, Jake Johnson",8.3
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Stanley Kubrick ," Peter Sellers, George C. Scott",8.3
+The Dark Knight Rises,Christopher Nolan ," Christian Bale, Tom Hardy",8.3
+Oldboy,Park Chan-wook ," Choi Min-sik, Yoo Ji-tae",8.3
+Joker,Todd Phillips ," Joaquin Phoenix, Robert De Niro",8.3
+Amadeus,Milos Forman ," F. Murray Abraham, Tom Hulce",8.3
+Inglourious Basterds,Quentin Tarantino ," Brad Pitt, Diane Kruger",8.3
+Toy Story,John Lasseter ," Tom Hanks, Tim Allen",8.3
+Braveheart,Mel Gibson ," Mel Gibson, Sophie Marceau",8.3
+Coco,Lee Unkrich ," Anthony Gonzalez, Gael García Bernal",8.3
+The Boat,Wolfgang Petersen ," Jürgen Prochnow, Herbert Grönemeyer",8.3
+Avengers: Endgame,Anthony Russo ," Robert Downey Jr., Chris Evans",8.3
+Princess Mononoke,Hayao Miyazaki ," Yôji Matsuda, Yuriko Ishida",8.3
+Top Gun: Maverick,Joseph Kosinski ," Tom Cruise, Jennifer Connelly",8.3
+Once Upon a Time in America,Sergio Leone ," Robert De Niro, James Woods",8.3
+Good Will Hunting,Gus Van Sant ," Robin Williams, Matt Damon",8.3
+Your Name.,Makoto Shinkai ," Ryûnosuke Kamiki, Mone Kamishiraishi",8.3
+Requiem for a Dream,Darren Aronofsky ," Ellen Burstyn, Jared Leto",8.3
+Toy Story 3,Lee Unkrich ," Tom Hanks, Tim Allen",8.3
+Singin' in the Rain,Stanley Donen ," Gene Kelly, Donald O'Connor",8.3
+3 Idiots,Rajkumar Hirani ," Aamir Khan, Madhavan",8.3
+High and Low,Akira Kurosawa ," Toshirô Mifune, Yutaka Sada",8.3
+Star Wars: Episode VI - Return of the Jedi,Richard Marquand ," Mark Hamill, Harrison Ford",8.3
+2001: A Space Odyssey,Stanley Kubrick ," Keir Dullea, Gary Lockwood",8.3
+Eternal Sunshine of the Spotless Mind,Michel Gondry ," Jim Carrey, Kate Winslet",8.3
+Capernaum,Nadine Labaki ," Zain Al Rafeea, Yordanos Shiferaw",8.3
+Reservoir Dogs,Quentin Tarantino ," Harvey Keitel, Tim Roth",8.3
+The Hunt,Thomas Vinterberg ," Mads Mikkelsen, Thomas Bo Larsen",8.3
+Citizen Kane,Orson Welles ," Orson Welles, Joseph Cotten",8.3
+Lawrence of Arabia,David Lean ," Peter O'Toole, Alec Guinness",8.3
+M,Fritz Lang ," Peter Lorre, Ellen Widmann",8.3
+Come and See,Elem Klimov ," Aleksey Kravchenko, Olga Mironova",8.3
+North by Northwest,Alfred Hitchcock ," Cary Grant, Eva Marie Saint",8.2
+Vertigo,Alfred Hitchcock ," James Stewart, Kim Novak",8.2
+Amélie,Jean-Pierre Jeunet ," Audrey Tautou, Mathieu Kassovitz",8.2
+A Clockwork Orange,Stanley Kubrick ," Malcolm McDowell, Patrick Magee",8.2
+The Apartment,Billy Wilder ," Jack Lemmon, Shirley MacLaine",8.2
+Double Indemnity,Billy Wilder ," Fred MacMurray, Barbara Stanwyck",8.2
+Full Metal Jacket,Stanley Kubrick ," Matthew Modine, R. Lee Ermey",8.2
+Ikiru,Akira Kurosawa ," Takashi Shimura, Nobuo Kaneko",8.2
+Scarface,Brian De Palma ," Al Pacino, Michelle Pfeiffer",8.2
+Hamilton,Thomas Kail ," Lin-Manuel Miranda, Phillipa Soo",8.2
+The Sting,George Roy Hill ," Paul Newman, Robert Redford",8.2
+To Kill a Mockingbird,Robert Mulligan ," Gregory Peck, John Megna",8.2
+Heat,Michael Mann ," Al Pacino, Robert De Niro",8.2
+Up,Pete Docter ," Edward Asner, Jordan Nagai",8.2
+Incendies,Denis Villeneuve ," Lubna Azabal, Mélissa Désormeaux-Poulin",8.2
+Taxi Driver,Martin Scorsese ," Robert De Niro, Jodie Foster",8.2
+Metropolis,Fritz Lang ," Brigitte Helm, Alfred Abel",8.2
+A Separation,Asghar Farhadi ," Payman Maadi, Leila Hatami",8.2
+L.A. Confidential,Curtis Hanson ," Kevin Spacey, Russell Crowe",8.2
+Snatch,Guy Ritchie ," Jason Statham, Brad Pitt",8.2
+Die Hard,John McTiernan ," Bruce Willis, Alan Rickman",8.2
+Bicycle Thieves,Vittorio De Sica ," Lamberto Maggiorani, Enzo Staiola",8.2
+Indiana Jones and the Last Crusade,Steven Spielberg ," Harrison Ford, Sean Connery",8.2
+Like Stars on Earth,Aamir Khan ," Darsheel Safary, Aamir Khan",8.2
+1917,Sam Mendes ," Dean-Charles Chapman, George MacKay",8.2
+Downfall,Oliver Hirschbiegel ," Bruno Ganz, Alexandra Maria Lara",8.2
+For a Few Dollars More,Sergio Leone ," Clint Eastwood, Lee Van Cleef",8.2
+Batman Begins,Christopher Nolan ," Christian Bale, Michael Caine",8.2
+Dangal,Nitesh Tiwari ," Aamir Khan, Sakshi Tanwar",8.2
+The Kid,Charles Chaplin ," Charles Chaplin, Edna Purviance",8.2
+Some Like It Hot,Billy Wilder ," Marilyn Monroe, Tony Curtis",8.2
+The Father,Florian Zeller ," Anthony Hopkins, Olivia Colman",8.2
+All About Eve,Joseph L. Mankiewicz ," Bette Davis, Anne Baxter",8.2
+Green Book,Peter Farrelly ," Viggo Mortensen, Mahershala Ali",8.2
+The Wolf of Wall Street,Martin Scorsese ," Leonardo DiCaprio, Jonah Hill",8.2
+Judgment at Nuremberg,Stanley Kramer ," Spencer Tracy, Burt Lancaster",8.2
+Ran,Akira Kurosawa ," Tatsuya Nakadai, Akira Terao",8.2
+Casino,Martin Scorsese ," Robert De Niro, Sharon Stone",8.2
+Pan's Labyrinth,Guillermo del Toro ," Ivana Baquero, Ariadna Gil",8.2
+Unforgiven,Clint Eastwood ," Clint Eastwood, Gene Hackman",8.2
+There Will Be Blood,Paul Thomas Anderson ," Daniel Day-Lewis, Paul Dano",8.2
+The Truman Show,Peter Weir ," Jim Carrey, Ed Harris",8.2
+Spider-Man: No Way Home,Jon Watts ," Tom Holland, Zendaya",8.2
+The Sixth Sense,M. Night Shyamalan ," Bruce Willis, Haley Joel Osment",8.2
+A Beautiful Mind,Ron Howard ," Russell Crowe, Ed Harris",8.2
+Yojimbo,Akira Kurosawa ," Toshirô Mifune, Eijirô Tôno",8.1
+Monty Python and the Holy Grail,Terry Gilliam ," Graham Chapman, John Cleese",8.1
+The Treasure of the Sierra Madre,John Huston ," Humphrey Bogart, Walter Huston",8.1
+Shutter Island,Martin Scorsese ," Leonardo DiCaprio, Emily Mortimer",8.1
+Jurassic Park,Steven Spielberg ," Sam Neill, Laura Dern",8.1
+Rashomon,Akira Kurosawa ," Toshirô Mifune, Machiko Kyô",8.1
+The Great Escape,John Sturges ," Steve McQueen, James Garner",8.1
+Kill Bill: Vol. 1,Quentin Tarantino ," Uma Thurman, David Carradine",8.1
+No Country for Old Men,Ethan Coen ," Tommy Lee Jones, Javier Bardem",8.1
+Finding Nemo,Andrew Stanton ," Albert Brooks, Ellen DeGeneres",8.1
+The Elephant Man,David Lynch ," Anthony Hopkins, John Hurt",8.1
+The Thing,John Carpenter ," Kurt Russell, Wilford Brimley",8.1
+Chinatown,Roman Polanski ," Jack Nicholson, Faye Dunaway",8.1
+Raging Bull,Martin Scorsese ," Robert De Niro, Cathy Moriarty",8.1
+Gone with the Wind,Victor Fleming ," Clark Gable, Vivien Leigh",8.1
+V for Vendetta,James McTeigue ," Hugo Weaving, Natalie Portman",8.1
+Inside Out,Pete Docter ," Amy Poehler, Bill Hader",8.1
+"Lock, Stock and Two Smoking Barrels",Guy Ritchie ," Jason Flemyng, Dexter Fletcher",8.1
+Dial M for Murder,Alfred Hitchcock ," Ray Milland, Grace Kelly",8.1
+The Secret in Their Eyes,Juan José Campanella ," Ricardo Darín, Soledad Villamil",8.1
+Howl's Moving Castle,Hayao Miyazaki ," Chieko Baishô, Takuya Kimura",8.1
+The Bridge on the River Kwai,David Lean ," William Holden, Alec Guinness",8.1
+"Three Billboards Outside Ebbing, Missouri",Martin McDonagh ," Frances McDormand, Woody Harrelson",8.1
+Trainspotting,Danny Boyle ," Ewan McGregor, Ewen Bremner",8.1
+Warrior,Gavin O'Connor ," Tom Hardy, Nick Nolte",8.1
+Gran Torino,Clint Eastwood ," Clint Eastwood, Bee Vang",8.1
+Fargo,Joel Coen ," William H. Macy, Frances McDormand",8.1
+Prisoners,Denis Villeneuve ," Hugh Jackman, Jake Gyllenhaal",8.1
+My Neighbor Totoro,Hayao Miyazaki ," Hitoshi Takagi, Noriko Hidaka",8.1
+Million Dollar Baby,Clint Eastwood ," Hilary Swank, Clint Eastwood",8.1
+Catch Me If You Can,Steven Spielberg ," Leonardo DiCaprio, Tom Hanks",8.1
+The Gold Rush,Charles Chaplin ," Charles Chaplin, Mack Swain",8.1
+Children of Heaven,Majid Majidi ," Mohammad Amir Naji, Amir Farrokh Hashemian",8.1
+Blade Runner,Ridley Scott ," Harrison Ford, Rutger Hauer",8.1
+On the Waterfront,Elia Kazan ," Marlon Brando, Karl Malden",8.1
+12 Years a Slave,Steve McQueen ," Chiwetel Ejiofor, Michael Kenneth Williams",8.1
+Before Sunrise,Richard Linklater ," Ethan Hawke, Julie Delpy",8.1
+The Third Man,Carol Reed ," Orson Welles, Joseph Cotten",8.1
+Wild Strawberries,Ingmar Bergman ," Victor Sjöström, Bibi Andersson",8.1
+Harry Potter and the Deathly Hallows: Part 2,David Yates ," Daniel Radcliffe, Emma Watson",8.1
+Ben-Hur,William Wyler ," Charlton Heston, Jack Hawkins",8.1
+Gone Girl,David Fincher ," Ben Affleck, Rosamund Pike",8.1
+The General,Clyde Bruckman ," Buster Keaton, Marion Mack",8.1
+The Deer Hunter,Michael Cimino ," Robert De Niro, Christopher Walken",8.1
+The Grand Budapest Hotel,Wes Anderson ," Ralph Fiennes, F. Murray Abraham",8.1
+In the Name of the Father,Jim Sheridan ," Daniel Day-Lewis, Pete Postlethwaite",8.1
+Barry Lyndon,Stanley Kubrick ," Ryan O'Neal, Marisa Berenson",8.1
+The Wages of Fear,Henri-Georges Clouzot ," Yves Montand, Charles Vanel",8.1
+Mr. Smith Goes to Washington,Frank Capra ," James Stewart, Jean Arthur",8.1
+Sherlock Jr.,Buster Keaton ," Buster Keaton, Kathryn McGuire",8.1
+Hacksaw Ridge,Mel Gibson ," Andrew Garfield, Sam Worthington",8.1
+Klaus,Sergio Pablos ," Jason Schwartzman, J.K. Simmons",8.1
+Memories of Murder,Bong Joon Ho ," Song Kang-ho, Kim Sang-kyung",8.1
+Wild Tales,Damián Szifron ," Darío Grandinetti, María Marull",8.1
+The Seventh Seal,Ingmar Bergman ," Max von Sydow, Gunnar Björnstrand",8.1
+Room,Lenny Abrahamson ," Brie Larson, Jacob Tremblay",8.1
+Mad Max: Fury Road,George Miller ," Tom Hardy, Charlize Theron",8.1
+Mary and Max,Adam Elliot ," Toni Collette, Philip Seymour Hoffman",8.1
+How to Train Your Dragon,Dean DeBlois ," Jay Baruchel, Gerard Butler",8.1
+The Big Lebowski,Joel Coen ," Jeff Bridges, John Goodman",8.1
+"Monsters, Inc.",Pete Docter ," Billy Crystal, John Goodman",8.1
+Jaws,Steven Spielberg ," Roy Scheider, Robert Shaw",8.1
+Tokyo Story,Yasujirô Ozu ," Chishû Ryû, Chieko Higashiyama",8.1
+The Passion of Joan of Arc,Carl Theodor Dreyer ," Maria Falconetti, Eugene Silvain",8.1
+Dead Poets Society,Peter Weir ," Robin Williams, Robert Sean Leonard",8.1
+Hotel Rwanda,Terry George ," Don Cheadle, Sophie Okonedo",8.1
+Ford v Ferrari,James Mangold ," Matt Damon, Christian Bale",8.0
+Rocky,John G. Avildsen ," Sylvester Stallone, Talia Shire",8.0
+Platoon,Oliver Stone ," Charlie Sheen, Tom Berenger",8.0
+Pather Panchali,Satyajit Ray ," Kanu Bannerjee, Karuna Bannerjee",8.0
+Stand by Me,Rob Reiner ," Wil Wheaton, River Phoenix",8.0
+The Terminator,James Cameron ," Arnold Schwarzenegger, Linda Hamilton",8.0
+Spotlight,Tom McCarthy ," Mark Ruffalo, Michael Keaton",8.0
+Logan,James Mangold ," Hugh Jackman, Patrick Stewart",8.0
+Rush,Ron Howard ," Daniel Brühl, Chris Hemsworth",8.0
+Everything Everywhere All at Once,Dan Kwan ," Michelle Yeoh, Stephanie Hsu",8.0
+Ratatouille,Brad Bird ," Brad Garrett, Lou Romano",8.0
+Network,Sidney Lumet ," Faye Dunaway, William Holden",8.0
+Into the Wild,Sean Penn ," Emile Hirsch, Vince Vaughn",8.0
+The Wizard of Oz,Victor Fleming ," Judy Garland, Frank Morgan",8.0
+Before Sunset,Richard Linklater ," Ethan Hawke, Julie Delpy",8.0
+Groundhog Day,Harold Ramis ," Bill Murray, Andie MacDowell",8.0
+The Exorcist,William Friedkin ," Ellen Burstyn, Max von Sydow",8.0
+Jai Bhim,T.J. Gnanavel ," Suriya, Lijo Mol Jose",8.0
+To Be or Not to Be,Ernst Lubitsch ," Carole Lombard, Jack Benny",8.0
+The Best Years of Our Lives,William Wyler ," Myrna Loy, Dana Andrews",8.0
+The Incredibles,Brad Bird ," Craig T. Nelson, Samuel L. Jackson",8.0
+The Battle of Algiers,Gillo Pontecorvo ," Brahim Hadjadj, Jean Martin",8.0
+Hachi: A Dog's Tale,Lasse Hallström ," Richard Gere, Joan Allen",8.0
+The Grapes of Wrath,John Ford ," Henry Fonda, Jane Darwell",8.0
+Rebecca,Alfred Hitchcock ," Laurence Olivier, Joan Fontaine",8.0
+My Father and My Son,Çagan Irmak ," Çetin Tekindor, Fikret Kuskan",8.0
+Amores perros,Alejandro G. Iñárritu ," Emilio Echevarría, Gael García Bernal",8.0
+Pirates of the Caribbean: The Curse of the Black Pearl,Gore Verbinski ," Johnny Depp, Geoffrey Rush",8.0
+La Haine,Mathieu Kassovitz ," Vincent Cassel, Hubert Koundé",8.0
+Cool Hand Luke,Stuart Rosenberg ," Paul Newman, George Kennedy",8.0
+The 400 Blows,François Truffaut ," Jean-Pierre Léaud, Albert Rémy",8.0
+Persona,Ingmar Bergman ," Bibi Andersson, Liv Ullmann",8.0
+The Handmaiden,Park Chan-wook ," Kim Min-hee, Ha Jung-woo",8.0
+It Happened One Night,Frank Capra ," Clark Gable, Claudette Colbert",8.0
+The Sound of Music,Robert Wise ," Julie Andrews, Christopher Plummer",8.0
+Life of Brian,Terry Jones ," Graham Chapman, John Cleese",8.0
+Dersu Uzala,Akira Kurosawa ," Maksim Munzuk, Yuriy Solomin",8.0
+Gandhi,Richard Attenborough ," Ben Kingsley, John Gielgud",8.0
+The Help,Tate Taylor ," Viola Davis, Emma Stone",8.0
+Aladdin,Ron Clements ," Scott Weinger, Robin Williams",8.0
+The Iron Giant,Brad Bird ," Eli Marienthal, Harry Connick Jr.",8.0
